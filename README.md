@@ -70,3 +70,13 @@ Alternatively, you can run the analysis via the Python script:
 
 ```bash
 python analyze_sales.py
+
+ ```
+
+Contact
+
+For any questions or suggestions, feel free to contact:
+
+	
+	•	GitHub: elhariri78
+	•	Email: your.email@example.comelhariri78@gmail.com
